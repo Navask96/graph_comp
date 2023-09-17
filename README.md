@@ -1,1 +1,2 @@
-# graph_comp
+# chart_component
+react js chart
