@@ -1,12 +1,47 @@
-{
+[
+  {
+    "name": "Series 1",
     "data": [
-      { "x": 1, "y": 64, "set": "data1" },
-      { "x": 2, "y": 61, "set": "data1" },
-      { "x": 3, "y": 64, "set": "data1" },
-      
-      { "x": 1, "y": 50, "set": "data2" },
-      { "x": 2, "y": 52, "set": "data2" },
-      { "x": 3, "y": 55, "set": "data2" }
+      { "category": "A", "value": 10 },
+      { "category": "B", "value": 20 },
+      { "category": "C", "value": 30 },
+      { "category": "D", "value": 40 },
+      { "category": "E", "value": 50 },
+      { "category": "F", "value": 60 },
+      { "category": "G", "value": 70 },
+      { "category": "H", "value": 80 },
+      { "category": "I", "value": 90 },
+      { "category": "J", "value": 100 }
+    ]
+  },
+  {
+    "name": "Series 2",
+    "data": [
+      { "category": "A", "value": 15 },
+      { "category": "B", "value": 25 },
+      { "category": "C", "value": 35 },
+      { "category": "D", "value": 45 },
+      { "category": "E", "value": 55 },
+      { "category": "F", "value": 65 },
+      { "category": "G", "value": 75 },
+      { "category": "H", "value": 85 },
+      { "category": "I", "value": 95 },
+      { "category": "J", "value": 105 }
+    ]
+  },
+  {
+    "name": "Series 3",
+    "data": [
+      { "category": "A", "value": 12 },
+      { "category": "B", "value": 22 },
+      { "category": "C", "value": 32 },
+      { "category": "D", "value": 42 },
+      { "category": "E", "value": 52 },
+      { "category": "F", "value": 62 },
+      { "category": "G", "value": 72 },
+      { "category": "H", "value": 82 },
+      { "category": "I", "value": 92 },
+      { "category": "J", "value": 102 }
     ]
   }
-  
+]
